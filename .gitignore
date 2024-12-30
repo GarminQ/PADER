@@ -1,0 +1,14 @@
+# CMake output directory
+build/
+CMakeFiles/
+
+# CMake cache and state files
+CMakeCache.txt
+cmake_install.cmake
+
+# VS Code workspace settings
+.vscode/
+
+# Other
+data/
+out/
